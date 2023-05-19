@@ -1,0 +1,14 @@
+a{
+    color: black;
+    text-decoration: none;
+}
+
+.card:hover {
+    transform: scale(1.06);
+    transition:  0.3s ease-out;
+   }
+
+.card {
+    transition: 0.3s ease-out;
+   }
+
