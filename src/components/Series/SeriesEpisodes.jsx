@@ -6,8 +6,6 @@ export const SeriesEpisodes = ({ episodes }) => {
 
     const numberOfSeasonsArray = Array.from({ length: numberOfSeasons }, (_, index) => index + 1);
 
-
-
     return (
         <div
             className="container"
