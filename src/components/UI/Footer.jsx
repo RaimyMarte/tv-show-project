@@ -3,7 +3,7 @@ import { Link } from "react-router-dom"
 export const Footer = () => {
   return (
 
-    <footer className="d-flex flex-wrap justify-content-around align-items-center py-4 border-top bg-dark">
+    <footer className="d-flex flex-wrap justify-content-around align-items-center py-4 border-top bg-dark mt-4">
 
       <Link to="/" className="mb-3 me-2 mb-md-0">
         <img src="https://static.episodate.com/logo-white.svg" alt="Episodate" width="90" />

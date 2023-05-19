@@ -3,12 +3,12 @@ a{
     text-decoration: none;
 }
 
-.card:hover {
+.card.serie:hover {
     transform: scale(1.06);
     transition:  0.3s ease-out;
    }
 
-.card {
+.card.serie {
     transition: 0.3s ease-out;
    }
 

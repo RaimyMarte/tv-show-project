@@ -3,7 +3,7 @@ import { Link } from "react-router-dom"
 export const SerieCard = ({ id, name, network, image_thumbnail_path }) => {
     return (
         <div className="col" >
-            <div className="card shadow-lg bg-body-tertiary rounded" >
+            <div className="card serie shadow-lg bg-body-tertiary rounded" >
                 <Link to={`/serie/${id}`}>
                     <img
                         src={image_thumbnail_path}

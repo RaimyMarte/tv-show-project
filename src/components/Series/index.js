@@ -1,5 +1,7 @@
 export * from './SerieCard'
 export * from './SeriesList'
+export * from './SeriesEpisodes'
+export * from './EpisodesCard'
 export * from './Search/GetSearchData'
 export * from './Search/SearchForm'
 export * from './Search/Results'
